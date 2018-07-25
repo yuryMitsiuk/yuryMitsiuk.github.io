@@ -438,6 +438,10 @@ img.portrait {
 	background-image:url(../images/github-logo.png);
 }
 
+.self ul li.skype {
+    background-image:url(../images/skype_logo.png);
+}
+
 .self .git {
 	background-image:url(../images/github-logo.png);
 }
