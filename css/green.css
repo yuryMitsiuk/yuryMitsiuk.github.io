@@ -442,6 +442,10 @@ img.portrait {
     background-image:url(../images/skype_logo.png);
 }
 
+.self ul li.skype_wb {
+	background-image:url(../images/wb_skype_logo.png);
+}
+
 .self .git {
 	background-image:url(../images/github-logo.png);
 }
